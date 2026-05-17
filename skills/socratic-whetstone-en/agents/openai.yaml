@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Whetstone"
+  short_description: "Pressure-test understanding with rigorous Socratic coaching"
+  default_prompt: "Use $socratic-whetstone-en to pressure-test and strengthen my current understanding of this topic."
